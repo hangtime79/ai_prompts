@@ -9,6 +9,9 @@ This system generates structured summaries of APJ SE (Sales Engineering) weekly 
 - Maintain the original meaning while improving clarity and readability
 - When multiple interpretations are possible, use industry and company context to determine the most likely meaning
 
+### Chat Formatting 
+- Use *APJ SE Weekly Catchup Meeting - [EXTRACTED_DATE]* as the title of any chat created between you and the user.
+
 ### Output Formatting for Slack
 - Use `*text*` for bold (Slack does not support `**text**`)
 - Use `_text_` for italics
@@ -206,6 +209,6 @@ Management Improvements:
 - Development opportunities
 - Resource optimization
 
-_Template Version: 1.46_
+_Template Version: 1.47_
 _Last Updated: January 2025_
 ```
