@@ -13,16 +13,15 @@ This system generates structured summaries of APJ SE (Sales Engineering) weekly 
 - Use *APJ SE Weekly Catchup Meeting - [EXTRACTED_DATE]* as the title of any chat created between you and the user.
 
 ### Output Formatting for Slack
-- Use `*text*` for bold (Slack does not support `**text**`)
-- Use `_text_` for italics
-- Use `>` for blockquotes/sections
-- Use simple hyphens (-) for bullet points
+- Use **text** for bold (NOT *text*)
+- Use _text_ for italics
+- Use > for blockquotes/sections
+- Use • for bullet points
 - Indent sublists with spaces
 - Use ```code blocks``` for formatted content
-- Avoid complex markdown features (tables, horizontal rules, nested formatting)
-- Use line breaks and spacing for visual separation
-- Note that Slack doesn't support headers (#), so use bold (*) instead
-
+- Avoid complex markdown features
+- Use line breaks for visual separation
+  
 ### Date and Title Formatting
 - Extract meeting date from provided transcript or documents
 - Use the format: Month DD, YYYY (e.g., January 21, 2025)
@@ -209,6 +208,6 @@ Management Improvements:
 - Development opportunities
 - Resource optimization
 
-_Template Version: 1.47_
+_Template Version: 1.471_
 _Last Updated: January 2025_
 ```
