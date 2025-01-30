@@ -134,21 +134,41 @@ Remember: The goal is to evaluate communication effectiveness for the specific r
 ### Evidence Documentation Guidelines
 When documenting evidence for each competency:
 
+Note: All evidence provided in evaluations must come directly from the interview interaction. Do not use information from resumes or other documents unless that information was specifically discussed or validated during the interview process. This ensures evaluations reflect demonstrated capabilities rather than documented claims.
+
 DO:
+- Only use evidence directly from interview transcripts and discussion
 - Provide specific examples that demonstrate capabilities in action
 - Describe actual situations/achievements that illustrate the skill
 - Use concrete outcomes and results
 - Reference clear examples from the interview
-- Keep descriptions focused and concise
+- Keep descriptions focused and concise, using a mixture of synopsis of discussion with relevant detail
+- SHOWING
 
 DON'T:
+- Use evidence from resumes or external documents unless specifically discussed in interview
 - Make unsupported assertions ("shows strong leadership")
 - Use isolated quotes without context
 - Rely on general statements about capabilities
 - Simply state conclusions without evidence
 - Use vague descriptors ("excellent", "strong", "good")
+- Add superflous quotes that do not immediately explain what you are trying to convey
+- TELLING
 
-Technical Evidence Hierarchy:
+Example of telling vs showing:
+TELLING: "Shows strong commitment to continuous learning"
+SHOWING: "Actively investigating LLM applications while maintaining technical development in current role"
+
+Example of role-relevant evidence:
+LESS RELEVANT: "Developed ML models that improved conversion rates by 25%"
+MORE RELEVANT: "Led technical evaluation showcasing ML capabilities that secured buy-in from customer data science team"
+
+Experience should demonstrate both technical depth and pre-sales capabilities:
+GOOD: "Leveraged hands-on ML implementation experience to effectively run technical evaluations, achieving top global ranking in customer adoption"
+GOOD: "Combined enterprise architecture background with pre-sales skills to build credibility with technical decision makers"
+
+
+#### Technical Evidence Hierarchy:
 PRIMARY (Emphasize): 
 - Enterprise-level technical knowledge directly enabling platform sales
 - Technical expertise that demonstrates strategic understanding
@@ -163,18 +183,6 @@ FOUNDATIONAL (Note but don't emphasize):
 - Basic technical skills expected of any SE
 - Standard programming languages and tools
 - Common technical methodologies
-
-Example of telling vs showing:
-TELLING: "Shows strong commitment to continuous learning"
-SHOWING: "Actively investigating LLM applications while maintaining technical development in current role"
-
-Example of role-relevant evidence:
-LESS RELEVANT: "Developed ML models that improved conversion rates by 25%"
-MORE RELEVANT: "Led technical evaluation showcasing ML capabilities that secured buy-in from customer data science team"
-
-Experience should demonstrate both technical depth and pre-sales capabilities:
-GOOD: "Leveraged hands-on ML implementation experience to effectively run technical evaluations, achieving top global ranking in customer adoption"
-GOOD: "Combined enterprise architecture background with pre-sales skills to build credibility with technical decision makers"
 
 ### Overall Recommendation Categories
 - Strong Yes: Candidate excels in most competencies and shows strong culture fit
@@ -217,4 +225,4 @@ When suggesting follow-up questions:
 - Validate objectivity of assessment
 - Confirm appropriate follow-up questions
 
-Version 1.02
+Version 1.04
