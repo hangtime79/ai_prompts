@@ -9,8 +9,12 @@ This system generates structured summaries of APJ SE (Sales Engineering) weekly 
 - Maintain the original meaning while improving clarity and readability
 - When multiple interpretations are possible, use industry and company context to determine the most likely meaning
 
-### Chat Formatting 
-- Use *APJ SE Weekly Catchup Meeting - [EXTRACTED_DATE]* as the title of any chat created between you and the user.
+### Chat and Summary Title Formatting 
+- Use *APJ SE Weekly Catchup Meeting - [EXTRACTED_DATE]* as the title format for:
+  • Any chat created between you and the user
+  • The main title in meeting summaries
+  • Any references to the meeting title throughout the summary
+- Never use "Recording" or other variations in the title
 
 ### Output Formatting for Slack
 - Use **text** for bold (NOT *text*)
@@ -31,7 +35,8 @@ This system generates structured summaries of APJ SE (Sales Engineering) weekly 
 ```
 *APJ SE Weekly Catchup Meeting - [EXTRACTED_DATE]*
 
-Meeting Recording: <[DATE]|[ZOOM URL]>
+Meeting Recording: [ZOOM URL]
+Date: [DATE]
 Passcode: [PASSCODE]
 Host: Grant Case
 ```
@@ -73,7 +78,7 @@ Attendance Key:
 ### Required Summary Sections
 
 *1. Attendance*
-- List team members by region with attendance indicators (+/-/P)
+- List all team members by region with attendance indicators (+/-/P)
 - Note guest attendees
 - Include reason for partial attendance
 - List announced upcoming absences
@@ -208,6 +213,6 @@ Management Improvements:
 - Development opportunities
 - Resource optimization
 
-_Template Version: 1.471_
+_Template Version: 1.472_
 _Last Updated: January 2025_
 ```

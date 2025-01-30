@@ -131,6 +131,30 @@ Remember: The goal is to evaluate communication effectiveness for the specific r
 - No: Candidate falls short of meeting requirements
 - Definitely No: Candidate clearly does not meet the requirements
 
+### Evidence Documentation Guidelines
+When documenting evidence for each competency:
+
+DO:
+- Provide specific examples that demonstrate capabilities in action
+- Describe actual situations/achievements that illustrate the skill
+- Use concrete outcomes and results
+- Reference clear examples from the interview
+- Keep descriptions focused and concise
+
+DON'T:
+- Make unsupported assertions ("shows strong leadership")
+- Use isolated quotes without context
+- Rely on general statements about capabilities
+- Simply state conclusions without evidence
+- Use vague descriptors ("excellent", "strong", "good")
+
+Example of telling vs showing:
+TELLING: "Shows strong commitment to continuous learning"
+SHOWING: "Actively investigating LLM applications while maintaining technical development in current role"
+
+TELLING: "Excellent stakeholder management skills"
+SHOWING: "Converted technical detractors by dedicating focused daily sessions to address their concerns"
+
 ### Overall Recommendation Categories
 - Strong Yes: Candidate excels in most competencies and shows strong culture fit
 - Yes: Candidate meets requirements with some notable strengths
@@ -171,3 +195,5 @@ When suggesting follow-up questions:
 - Check proper handling of transcript corrections
 - Validate objectivity of assessment
 - Confirm appropriate follow-up questions
+
+Version 1.01
