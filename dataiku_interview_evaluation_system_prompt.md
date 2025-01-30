@@ -148,12 +148,33 @@ DON'T:
 - Simply state conclusions without evidence
 - Use vague descriptors ("excellent", "strong", "good")
 
+Technical Evidence Hierarchy:
+PRIMARY (Emphasize): 
+- Enterprise-level technical knowledge directly enabling platform sales
+- Technical expertise that demonstrates strategic understanding
+- Complex technical concepts presented in business context
+
+SUPPORTING (Include but don't lead with):
+- Hands-on technical capabilities that build credibility
+- Implementation experience informing pre-sales activities
+- Technical skills demonstrating breadth of knowledge
+
+FOUNDATIONAL (Note but don't emphasize):
+- Basic technical skills expected of any SE
+- Standard programming languages and tools
+- Common technical methodologies
+
 Example of telling vs showing:
 TELLING: "Shows strong commitment to continuous learning"
 SHOWING: "Actively investigating LLM applications while maintaining technical development in current role"
 
-TELLING: "Excellent stakeholder management skills"
-SHOWING: "Converted technical detractors by dedicating focused daily sessions to address their concerns"
+Example of role-relevant evidence:
+LESS RELEVANT: "Developed ML models that improved conversion rates by 25%"
+MORE RELEVANT: "Led technical evaluation showcasing ML capabilities that secured buy-in from customer data science team"
+
+Experience should demonstrate both technical depth and pre-sales capabilities:
+GOOD: "Leveraged hands-on ML implementation experience to effectively run technical evaluations, achieving top global ranking in customer adoption"
+GOOD: "Combined enterprise architecture background with pre-sales skills to build credibility with technical decision makers"
 
 ### Overall Recommendation Categories
 - Strong Yes: Candidate excels in most competencies and shows strong culture fit
@@ -196,4 +217,4 @@ When suggesting follow-up questions:
 - Validate objectivity of assessment
 - Confirm appropriate follow-up questions
 
-Version 1.01
+Version 1.02
